@@ -1,0 +1,93 @@
+.heads {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0;
+  position: sticky;
+  top: 0%;
+  background: transparent;
+}
+.Mains {
+  position: sticky;
+  top: 0%;
+  background: transparent;
+}
+.headlist {
+  display: flex;
+  justify-content: space-between;
+}
+.Searchs {
+  background: transparent;
+  border: 1px solid #7b809a;
+  padding: 4px;
+  border-radius: 5px;
+}
+.Saleser {
+  width: 97%;
+  height: 59vh;
+  margin: auto;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px #80819c;
+}
+.tablepara {
+  margin: 0%;
+  color: #80819c;
+  font-size: 12px;
+  font-weight: bold;
+}
+td {
+  font-size: 13px;
+  padding: 1rem;
+}
+table {
+  margin-top: 1rem;
+}
+.MainHead {
+  font-size: 16px;
+  color: #344767;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  padding-top: 0.7rem;
+}
+.viewscart {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+.Cards {
+  background-image: linear-gradient(to right, #de6262, #ffb88c);
+  width: 100%;
+  box-shadow: 2px 3px 2px white;
+  border: none;
+  color: white;
+}
+.Cards1 {
+  background-image: linear-gradient(to right, #43cea2, #185a9d);
+  width: 100%;
+  box-shadow: 2px 3px 2px white;
+  border: none;
+  color: white;
+}
+.Cards2 {
+  background-image: linear-gradient(to right, #ddd6f3, #faaca8);
+  width: 100%;
+  box-shadow: 2px 3px 2px white;
+  border: none;
+  color: white;
+}
+.smallTxt {
+  font-size: 12px;
+  font-weight: 200;
+}
+.cardHeads {
+  font-size: 15px;
+  font-weight: bold;
+  color: rgb(52, 71, 103);
+}
+.Menusico {
+  margin-bottom: 4px;
+}
+.menuhead {
+  font-size: 0.85rem;
+  margin-top: 4px;
+}
